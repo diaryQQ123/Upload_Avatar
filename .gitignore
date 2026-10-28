@@ -1,0 +1,11 @@
+node_modules/
+dist/
+unpackage/
+.hbuilderx/
+target/
+data/
+*.log
+.env
+.yml
+.xql
+

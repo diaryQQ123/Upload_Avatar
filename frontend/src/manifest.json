@@ -1,0 +1,1 @@
+{"name":"头像相册管理","appid":"","description":"头像上传、预览和删除管理端","versionName":"1.0.0","versionCode":"100","vueVersion":"3","h5":{"title":"头像相册管理","router":{"mode":"hash"}},"mp-weixin":{"appid":"","setting":{"urlCheck":true}}}
