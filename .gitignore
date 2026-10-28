@@ -1,11 +1,20 @@
+# 依赖与构建产物
 node_modules/
 dist/
 unpackage/
 .hbuilderx/
 target/
+
+# 运行数据与日志
 data/
 *.log
-.env
-.yml
-.xql
 
+# 本地环境变量与本地配置（含真实密码，不提交）
+.env
+.env.*
+application.yml
+schema.sql
+
+# IDE
+.idea/
+*.iml
